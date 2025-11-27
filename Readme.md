@@ -18,9 +18,9 @@ git clone https://github.com/AdarshBelnekar/Smart_Task_Analyzer.git
   python -m venv venv
    ```
    * Run the requirnment file
-  ```bash
-     pip install -r requirements.txt
-  ```
+     ```bash
+       pip install -r requirements.txt
+       ```
 
   * Run Migration
     ```bash
