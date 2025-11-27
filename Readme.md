@@ -1,4 +1,4 @@
-# Task Prioritization System – Project Documentation
+# Task Analyzer System – Project Documentation
 
 ##  Overview
 This project implements a Task Prioritization System that assigns a priority score to each task based on weighted parameters such as urgency, importance, due dates, and estimated effort. Users can add tasks, view their priority levels, and understand how the scoring algorithm ranks tasks.
@@ -87,4 +87,5 @@ Frontend simplicity: Single-page UI with clean table and top 3 recommendations
 ## Future Improvement 
 - Add more Visulatization (Graph,matrix,etc).
 - Admin functionality with database.
+
 - Implements Date adding holidays.
